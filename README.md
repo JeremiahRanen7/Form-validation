@@ -1,7 +1,8 @@
 **Form Validation**:
 
 ```
-Form validation done interactively through javascript
+  - Form validation done interactively through javascript
+  - Developed using TailwindCSS
 
 ```
 
